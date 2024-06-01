@@ -6,7 +6,7 @@ const equipos = [
             "id": 1,
             "nombre": "Colo Colo",
             "pais": "chile",
-            "imagen": "https://i.pinimg.com/736x/b9/48/13/b948139143a14f82309e41e4ea04e6bf.jpg"
+            "imagen": "https://www.futbox.com/img/v1/afd/830/6d1/7d4/1c22b75956a4541b77ab_zoom.png"
         },
         {
             "id": 2,
